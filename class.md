@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Musket  
+- Certification: Meta Back-End  
 
 ## Instructions
 Please replace the placeholders with your details:
